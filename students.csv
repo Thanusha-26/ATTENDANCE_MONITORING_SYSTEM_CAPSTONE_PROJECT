@@ -1,0 +1,11 @@
+rollNo,name,dept,section,email,phone,password
+22CS001,Ravi Kumar,CSE,A,ravi@gmail.com,1234567894,stu123
+22CS002,Priya,CSE,A,priya@gmail.com,3214567895,stu123
+22CS003,Apple,CSE,A,apple@gmail.com,9876054321,stu123
+22CS004,Sai,CSE,B,sai@gmbil.com,3456789012,stu123
+22CS005,Vamsi,CSE,B,vamsi@gmbil.com,9876023541,stu123
+22CS006,Arjun,CSE,B,arjun@gmbil.com,9806023544,stu123
+22CS007,Satya,CSE,B,satya@gmbil.com,9876023545,stu123
+22CS008,Raju,CSE,C,raju@gmcil.com,9976023546,stu123
+22CS009,Rani,CSE,C,rani@gmcil.com,9776023741,stu123
+22CS010,Teja,CSE,C,teja@gmcil.com,9676023548,stu123

@@ -1,0 +1,38 @@
+[
+  {
+    "courseCode": "CS101",
+    "date": "2026-04-03",
+    "slot": "P1",
+    "facultyId": "F001",
+    "records": [
+      {"rollNo":"22CS001","status":"present"},
+      {"rollNo":"22CS002","status":"absent"},
+      {"rollNo":"22CS003","status":"absent"},
+      {"rollNo":"22CS004","status":"present"},
+      {"rollNo":"22CS005","status":"present"},
+      {"rollNo":"22CS006","status":"present"},
+      {"rollNo":"22CS007","status":"present"},
+      {"rollNo":"22CS008","status":"present"},
+      {"rollNo":"22CS009","status":"present"},
+      {"rollNo":"22CS010","status":"absent"}
+    ]
+  },
+  {
+    "courseCode": "CS102",
+    "date": "2026-04-03",
+    "slot": "P3",
+    "facultyId": "F002",
+    "records": [
+      {"rollNo":"22CS001","status":"present"},
+      {"rollNo":"22CS002","status":"absent"},
+      {"rollNo":"22CS003","status":"absent"},
+      {"rollNo":"22CS004","status":"present"},
+      {"rollNo":"22CS005","status":"present"},
+      {"rollNo":"22CS006","status":"present"},
+      {"rollNo":"22CS007","status":"present"},
+      {"rollNo":"22CS008","status":"present"},
+      {"rollNo":"22CS009","status":"present"},
+      {"rollNo":"22CS010","status":"absent"}
+    ]
+  }
+]
